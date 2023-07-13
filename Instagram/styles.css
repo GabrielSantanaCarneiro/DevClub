@@ -64,4 +64,5 @@ button {
     position: absolute;
     left: 153px;
     top: 26px;
+    transition: 2s ease-in-out;
 }
